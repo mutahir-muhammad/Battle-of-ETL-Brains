@@ -1,0 +1,7 @@
+# Quiz Categories 📚
+
+1. Science 🔬  
+2. History 📜  
+3. Coding 💻  
+4. Pop Culture 🎬  
+5. Sports ⚽
