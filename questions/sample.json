@@ -1,0 +1,28 @@
+[
+    {
+      "question": "What is the capital of Pakistan?",
+      "options": ["Karachi", "Islamabad", "Lahore", "Peshawar"],
+      "answer": "Islamabad"
+    },
+    {
+      "question": "Which is the national language of Pakistan?",
+      "options": ["Urdu", "Punjabi", "Sindhi", "English"],
+      "answer": "Urdu"
+    },
+    {
+      "question": "Which river is the longest in Pakistan?",
+      "options": ["Jhelum", "Chenab", "Indus", "Ravi"],
+      "answer": "Indus"
+    },
+    {
+      "question": "Who is known as the founder of Pakistan?",
+      "options": ["Allama Iqbal", "Liaquat Ali Khan", "Quaid-e-Azam Muhammad Ali Jinnah", "Sir Syed Ahmed Khan"],
+      "answer": "Quaid-e-Azam Muhammad Ali Jinnah"
+    },
+    {
+      "question": "Which is the national sport of Pakistan?",
+      "options": ["Hockey", "Cricket", "Football", "Kabaddi"],
+      "answer": "Hockey"
+    }
+  ]
+  
